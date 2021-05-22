@@ -1,0 +1,53 @@
+body {
+    background: linear-gradient(to right, #434343, #000000);
+}
+
+h3{
+	font-family: "Times New Roman";
+	position: absolute;
+	top: 10%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-10%);
+    font-size: 60px;
+    color: white;
+}
+
+p{
+	font-family: "Times New Roman";
+	position: absolute;
+	top: 60%;
+    left: 30%;
+    color: white;
+    font-size: 20px;
+}
+
+h1{
+	position: absolute;
+    top: 45%;
+    left: 30%;
+    transform: translateX(-45%) translateY(-30%);
+    color: white;
+    font-family: "Times New Roman";
+    font-size: 40px;
+}
+
+.clock {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: white;
+    font-size: 60px;
+    font-family: "Times New Roman";
+    letter-spacing: 7px;
+    border: 5px solid white;
+}
+
+.inF {
+	position: absolute;
+	color: white;
+	top: 35%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-35%);
+}
+
